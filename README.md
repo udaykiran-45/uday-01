@@ -20,4 +20,5 @@ I've created a comprehensive Big Data Analysis Dashboard that demonstrates scala
 The dashboard features distributed worker simulation, real-time streaming data processing, comprehensive metrics tracking, and interactive visualizations including time series analysis, category distribution charts, and regional data breakdown. The system processes large datasets in chunks, demonstrates horizontal scaling with multiple workers, and provides detailed performance metrics including throughput, latency, and resource utilization.
 
 The interface includes professional dark theme styling with smooth animations, responsive design optimized for all screen sizes, and intuitive controls for managing different dataset sizes and processing operations. Users can start analysis on datasets ranging from 10,000 to 5 million records, toggle real-time data streaming, export analysis results, and monitor worker cluster performance in real-time
-#OUTPUT
+#OUTPUT FOR THIS PROJECT
+![Image](https://github.com/user-attachments/assets/569d94a6-d7df-4b26-b9cd-5a13c9d504f5)
